@@ -1,1 +1,1 @@
-CREATE STREAM test_mig_2 as SELECT * from  orders_stream ;
+CREATE STREAM test_mig_3 as SELECT * from  orders_stream ;
